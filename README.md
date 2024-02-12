@@ -11,5 +11,6 @@
 | [📃 만들면서 배우는 클린아키텍처](https://github.com/ttaehee/book-reviews/tree/main/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C_%EB%B0%B0%EC%9A%B0%EB%8A%94_%ED%81%B4%EB%A6%B0_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98) | 2023 | O |
 | [📃 모던 자바 인 액션](https://github.com/ttaehee/book-reviews/tree/main/%EB%AA%A8%EB%8D%98_%EC%9E%90%EB%B0%94_%EC%9D%B8_%EC%95%A1%EC%85%98) | 2023 | -ing |  
 | [📃 도메인 주도 개발 시작하기](https://github.com/ttaehee/book-reviews/tree/main/%EB%8F%84%EB%A9%94%EC%9D%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) | 2023 | O | 
+| [📃 Real MySQL 8.0](https://github.com/ttaehee/book-reviews/tree/main/%EB%8F%84%EB%A9%94%EC%9D%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) | 2024 | -ing | 
 
 <br/>     
